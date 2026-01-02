@@ -1,0 +1,5 @@
+{
+  "name": "Rogue-Clone",
+  "description": "A roguelite dungeon explorer with real-time combat and meta-progression, inspired by the classic Rogue.",
+  "requestFramePermissions": []
+}
